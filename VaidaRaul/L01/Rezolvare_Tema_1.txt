@@ -1,2 +1,9 @@
 Eu am folosit foarte mult Google Docs. 
+
 De multe ori am nevoie de un editor de text care sa nu necesite download de software, asa ca acest program online este ideal pentru a lucra fisiere Word, cu posibilitatea de a lucra fiecare tip de fisier intalnit intr-un alt program disponibil in suita Google.
+
+Fata de programele obisnuite de editare text apare posibilitatea de a adauga extensii care pot formata textul in diverse moduri (de exemplu codul poate aparea ca in IDE), iar auto-correct-ul se seteaza in idependent de limba calculatorului si cuprinde mult mai multi termeni des intalniti, pe care Word nu ii poate intelege.
+
+Fisierele creeate de docs sunt si foarte usor de gasit, ele fiind salvate direct in Google Drive, care ofera un spatiu generos de stocare gratuit. De aici se pot accesa fisirele dorite si de catre alti utilizatori in baza unui link de acces.
+
+Eu sunt foarte multumit de Google Docs si este principalul program pe care il folosesc pentru editare a a textului.
